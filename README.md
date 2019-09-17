@@ -20,3 +20,9 @@
 4. Borderlands
 
 ##### *Lol byeeeeeeeee*
+
+Jk I got ya didn't I.. I'm just gonna keep writing cause im not sure what else I should add tho 
+
+I'll add a for loop just cause this is still supposed to be code
+
+NVM I'm not gonna cause there's no tab tab cause this isn't VS
