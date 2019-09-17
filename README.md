@@ -1,6 +1,6 @@
 # THIS IS A THING
 
-`Lol hi I am doing this thing cause I like food best (also games)
+Lol hi I am doing this thing cause I like food best (also games)
 
 ## Food
 
