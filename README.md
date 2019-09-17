@@ -1,21 +1,20 @@
-# heading 1
-## heading 2 
-### heading 3
+# THIS IS A THING
 
-`//this is a single line of code`
+`Lol hi I am doing this thing cause I like food best (also games)
 
-```
-//multiple of code go here
-for(int i =0; i <10; i++)
-{
-Console.WriteLine(i);
+## Food
+`this is a list of food I like: 
++ Chocolate Moose
+- Monster (Even though it's not really food)
++ Pies
+- Stir fry
++ Others I cant think of
 
-}
-```
+## Games
+` Another list of stuff for some games I play
+1. DBD
+2. Bioshock
+3. Portal 2
+4. Borderlands
 
-this is a list: 
-+ list item 1
-- list item 2
-
-1. list item 1
-2. list item 2
+##### Lol byeeeeeeeee
